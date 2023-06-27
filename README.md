@@ -1,15 +1,24 @@
-## 📖 About Me
-Hello! I am Jin Myeong Seo. I am a former scientist (biochemistry) pursuing software engineering roles. I love bringing systematic approaches to break down large challenges into actionable tasks. I build videogames as a hobby and have participated in numerous Game Jams. I am an experienced developer constantly seeking opportunities to learn new skills. Nice to meet you!
+## Howdy! :fox_face: I'm Jin!
 
-## 🌱 What I'm Up To
-* I'm currently...
+*Scientist turned Software Engineer</br>I used to read genetic code, but now I'd rather read computer code*
+
+[![Linkedin: jinmyeongseo](https://img.shields.io/badge/jinmyeongseo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jinmyeongseo/)](https://www.linkedin.com/in/jinmyeongseo/)
+[![GitHub yoko-8](https://img.shields.io/github/followers/yoko-8?label=follow&style=social)](https://github.com/yoko-8)
+
+### A little more about me...
+```javascript
+const jin = {
+  pronouns: "he" | "him",
+  languages: [Javascript, Typescript, Python, C#, Lua],
+  front-end-exp: [React, React Native, HTML5, CSS3, Tailwind],
+  back-end-exp: [Node.js, Express, PostgreSQL, MySQL, SQLite, MongoDB, Firebase, Firestore, RESTful API],
+  testing-and-deployment-exp: [Jest, Mocha, Chai, K6, loader.io, AWS],
+  fun-facts: [
+    bassist: "I'm a bass-guitar rockstar",
+    game-dev: "I make videogames as a hobby",
+    nickname: "My buddies call me Fox",
+  ],
+}
 ```
-- Applying to jobs! If you're looking for a software engineer with a can-do attitude, I'm your guy!
-- Collaborating with a small team to build a fan-website for the trading card game, "Cardfight!! Vanguard"
-- Experimenting with the GameMaker game engine 
-```
 
-## 📫 How To Reach Me:
-I am always open for conversation! Connect with me here:
-
-[![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jinmyeongseo/)
+<em><b>I love building meaningful relationships with people</b> so if you're curious about me <b>I would also love to meet you!</b></em>
