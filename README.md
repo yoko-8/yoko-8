@@ -1,4 +1,5 @@
-### Hi there 👋
+# Mad Scientist Turned Programmer
+Hello! My name is Jin, and I am a former scientist pursuing software engineering. I enjoy building videogames and interesting applications in my spare time!
 
 <!--
 **yoko-8/yoko-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
