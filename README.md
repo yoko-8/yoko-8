@@ -1,3 +1,5 @@
+![241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5](https://github.com/yoko-8/yoko-8/assets/106457612/23f57b92-b695-4f20-8d73-a06368eaadf3)
+
 ## Howdy! :fox_face: I'm Jin!
 
 *Scientist (biochemistry) turned Software Engineer</br>I used to read genetic code, but now I'd rather read computer code*
