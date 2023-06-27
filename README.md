@@ -1,6 +1,6 @@
 ## Howdy! :fox_face: I'm Jin!
 
-*Scientist turned Software Engineer</br>I used to read genetic code, but now I'd rather read computer code*
+*Scientist (biochemistry) turned Software Engineer</br>I used to read genetic code, but now I'd rather read computer code*
 
 [![Linkedin: jinmyeongseo](https://img.shields.io/badge/jinmyeongseo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jinmyeongseo/)](https://www.linkedin.com/in/jinmyeongseo/)
 [![GitHub yoko-8](https://img.shields.io/github/followers/yoko-8?label=follow&style=social)](https://github.com/yoko-8)
